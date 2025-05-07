@@ -52,21 +52,23 @@ class Wheel {
             'Youth Exploitation',
             'Water Scarcity',
             'Accessible Technology',
-            'Gender Equality ',
             'Climate Refugees',
-            'Biodiversity Loss'
+            'Gender Equality ',
+            'Biodiversity Loss',
+            'Crisis'
         ];
         
         this.colors = [
             '#3498db',
             '#e74c3c',
-            '#2ecc71',
             '#f1c40f',
+            '#2ecc71',
             '#9b59b6',
-            '#c5cae9',
-            '#ffab91',
             '#7f8c8d',
-            '#f06292'
+            '#ffab91',
+            '#f06292',
+            '#c5dae9',
+            '#000000'
         ];
         
         this.init();
